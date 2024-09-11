@@ -75,7 +75,7 @@ export const navItems = [
       des: " Developing a cutting-edge real estate app using the MERN stack,this project stramlines property listings and enhances user experience with advanced search filters, interative maps and secure transactions, all in one intuitive platform",
       img: "/p1.svg",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-      liveLink: "https://portfolio-next-zeta-eosin.vercel.app",
+      liveLink: "https://moh-nabil.vercel.app",
     },
     {
       id: 2,
@@ -83,7 +83,7 @@ export const navItems = [
       des: "Developing PodMaster AI, an innovative podcast platform built with Next.js, leveraging AI to offer personalized recommendations, automated transcription, and advanced analytics, all designed to enhance podcast creation and listener engagement.",
       img: "/p2.svg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-      liveLink: "https://portfolio-next-zeta-eosin.vercel.app",
+      liveLink: "https://moh-nabil.vercel.app",
     },
     {
       id: 3,
@@ -91,7 +91,7 @@ export const navItems = [
       des: "Recreating the Apple iPhone 15 Pro website, using GSAP and Three.js, this project brings the iPhone to life with stunning animations, interactive elements, and realistic 3D models, providing a captivating user experience.",
       img: "/p4.svg",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-      liveLink: "https://portfolio-next-zeta-eosin.vercel.app",
+      liveLink: "https://moh-nabil.vercel.app",
     },
     {
       id: 4,
@@ -99,7 +99,7 @@ export const navItems = [
       des: "Creating FundChain, an innovative crowdfunding platform powered by Web3 and blockchain technology, enabling secure, transparent, and decentralized fundraising, empowering creators and backers alike with unmatched trust and efficiency..",
       img: "/p3.svg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-      liveLink: "https://portfolio-next-zeta-eosin.vercel.app",
+      liveLink: "https://moh-nabil.vercel.app",
     },
   ];
   
