@@ -149,6 +149,6 @@ export const navItems = [
     {
       id: 3,
       img: "/link.svg",
-      link: "https://www.linkedin.com/in/mohammed-nabil-abubakar-66788b22b",
+      link: "https://www.linkedin.com/in/mohammed-nabil-abubakar/",
     },
   ];
